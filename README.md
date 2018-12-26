@@ -1,1 +1,1 @@
-Created to test connection to Oracle Identity Management
+Created to test connection to Oracle Identity Management via LDAP
