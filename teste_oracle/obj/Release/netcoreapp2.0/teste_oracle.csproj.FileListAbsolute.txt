@@ -1,0 +1,11 @@
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Release\netcoreapp2.0\teste_oracle.deps.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Release\netcoreapp2.0\teste_oracle.runtimeconfig.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Release\netcoreapp2.0\teste_oracle.runtimeconfig.dev.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Release\netcoreapp2.0\teste_oracle.dll
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Release\netcoreapp2.0\teste_oracle.pdb
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.csprojResolveAssemblyReference.cache
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.csproj.CoreCompileInputs.cache
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.AssemblyInfoInputs.cache
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.AssemblyInfo.cs
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.dll
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Release\netcoreapp2.0\teste_oracle.pdb

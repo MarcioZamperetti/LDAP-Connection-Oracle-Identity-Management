@@ -1,0 +1,29 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "LDAP connection to Oracle Identity Management";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.PostedMessage</h3>
+<h3>@ViewData["PostedMessage"]</h3>
+
+<p>LDAP Access:</p>
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="user" class="control-label">Username</label>
+                <input asp-for="user" class="form-control" required="required" placeholder="Username"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="passwd" class="control-label">Password</label>
+                <input asp-for="passwd" class="form-control" required="required" placeholder="Password"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="ldap" class="control-label">ldap server</label>
+                <input asp-for="ldap" class="form-control" required="required" placeholder="LdapServer:port"/>
+            </div>
+            <button type="submit" value="submit">Submit</button>
+        </form>
+    </div>
+</div>

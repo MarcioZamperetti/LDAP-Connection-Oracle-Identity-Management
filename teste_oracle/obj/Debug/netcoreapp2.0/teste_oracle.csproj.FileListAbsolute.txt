@@ -1,0 +1,21 @@
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Debug\netcoreapp2.0\teste_oracle.deps.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Debug\netcoreapp2.0\teste_oracle.runtimeconfig.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Debug\netcoreapp2.0\teste_oracle.runtimeconfig.dev.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Debug\netcoreapp2.0\teste_oracle.dll
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Debug\netcoreapp2.0\teste_oracle.pdb
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.csprojResolveAssemblyReference.cache
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.csproj.CoreCompileInputs.cache
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.AssemblyInfoInputs.cache
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.AssemblyInfo.cs
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.dll
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Debug\netcoreapp2.0\teste_oracle.pdb
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Debug\netcoreapp2.0\teste_oracle.deps.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Debug\netcoreapp2.0\teste_oracle.runtimeconfig.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Debug\netcoreapp2.0\teste_oracle.runtimeconfig.dev.json
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Debug\netcoreapp2.0\teste_oracle.dll
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\bin\Debug\netcoreapp2.0\teste_oracle.pdb
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Debug\netcoreapp2.0\teste_oracle.csproj.CoreCompileInputs.cache
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Debug\netcoreapp2.0\teste_oracle.AssemblyInfoInputs.cache
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Debug\netcoreapp2.0\teste_oracle.AssemblyInfo.cs
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Debug\netcoreapp2.0\teste_oracle.dll
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle\obj\Debug\netcoreapp2.0\teste_oracle.pdb

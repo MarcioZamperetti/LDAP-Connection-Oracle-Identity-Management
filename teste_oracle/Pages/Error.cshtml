@@ -1,0 +1,29 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">LDAP connection error:</h2>
+<br />
+<h3>@Model.logerro</h3>
+<h3>@ViewData["logerro"]</h3>
+<br />
+<br />
+<br />
+<br />
+<br />
+<div>
+    <p class="button">
+        <input type="button" value="Back" onclick="voltar()" />
+    </p>
+</div>
+
+
+<script>
+    function voltar() {
+        window.location.href = "/About";
+    }
+</script>

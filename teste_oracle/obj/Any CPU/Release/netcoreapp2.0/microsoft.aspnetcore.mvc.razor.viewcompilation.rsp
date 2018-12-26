@@ -1,0 +1,13 @@
+C:\Users\marcio\source\repos\teste_oracle\teste_oracle
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=teste_oracle
+--content-root=C:\Users\marcio\source\repos\teste_oracle\teste_oracle
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\About.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\Contact.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\Error.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\Index.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\Sucess.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\_Layout.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\_ViewImports.cshtml
+--file=C:\Users\marcio\source\repos\teste_oracle\teste_oracle\Pages\_ViewStart.cshtml

@@ -1,0 +1,10 @@
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Any CPU\Release\netcoreapp2.0\teste oracle.deps.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Any CPU\Release\netcoreapp2.0\teste oracle.runtimeconfig.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Any CPU\Release\netcoreapp2.0\teste oracle.runtimeconfig.dev.json
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Any CPU\Release\netcoreapp2.0\teste oracle.dll
+c:\users\marcio\source\repos\teste oracle\teste oracle\bin\Any CPU\Release\netcoreapp2.0\teste oracle.pdb
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Any CPU\Release\netcoreapp2.0\teste oracle.csproj.CoreCompileInputs.cache
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Any CPU\Release\netcoreapp2.0\teste oracle.AssemblyInfoInputs.cache
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Any CPU\Release\netcoreapp2.0\teste oracle.AssemblyInfo.cs
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Any CPU\Release\netcoreapp2.0\teste oracle.dll
+c:\users\marcio\source\repos\teste oracle\teste oracle\obj\Any CPU\Release\netcoreapp2.0\teste oracle.pdb
